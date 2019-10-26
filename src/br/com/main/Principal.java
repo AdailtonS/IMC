@@ -33,7 +33,7 @@ public class Principal {
 		
 		//double resultado;
 		//resultado = peso / (altura * 2);
-				
+						
 		if (peso / (altura * altura) < 20) {
 			System.out.println("Magro.");
 		}else if (peso / (altura * altura) >= 20 && peso / (altura * altura) <= 24) {
